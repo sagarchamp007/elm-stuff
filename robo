@@ -1,0 +1,21 @@
+def myfun ()
+{
+   if(IsNextWall)
+   {
+   GoForward
+   }
+   else
+   {
+   GoForward
+   call myfun
+   }
+}
+def main ()
+{
+  TurnLeft
+  TurnRight
+  GoForward
+  PutCoin
+  PickCoin
+  Call myfun
+}
