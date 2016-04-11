@@ -7,7 +7,7 @@ def myfun ()
    else
    {
    GoForward
-   call myfun
+   Call myfun
    }
 }
 def main ()
