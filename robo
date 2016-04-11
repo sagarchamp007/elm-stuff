@@ -1,14 +1,14 @@
 def myfun ()
 {
-   if(IsNextWall)
-   {
-   GoForward
-   }
-   else
-   {
-   GoForward
-   Call myfun
-   }
+ if(IsNextWall)
+  {
+ GoForward
+  }
+ else
+ {
+ GoForward
+ Call myfun
+ }
 }
 def main ()
 {
