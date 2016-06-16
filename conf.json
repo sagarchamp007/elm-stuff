@@ -1,0 +1,87 @@
+{"gridSize" :
+ {
+     "row":"8",
+     "col":"8"
+ },
+ "cellCoins" :
+ [
+     {
+	 "row":"0",
+	 "col":"4",
+	 "ncoins" : "2"
+     },
+
+     {
+	 "row":"1",
+	 "col":"5",
+	 "ncoins" : "4"
+     },
+     
+     {
+	 "row":"5",
+	 "col":"5",
+	 "ncoins" : "6"
+     }
+ ],
+
+ "initRoboPos" :
+ [
+     {
+	 "row": "3",
+	 "col": "4"
+     },
+     {
+	 "row": "5",
+	 "col": "4"
+     },
+     {
+	 "row": "7",
+	 "col": "7"
+     },
+     {
+	 "row": "4",
+	 "col": "4"
+     }
+ ],
+
+ "initRoboDir" :
+ [
+     "up","down","left","right"
+ ],
+
+ "gridCellSize" : "5",
+ "gridBorderSize" : "2",
+ "gridCellCol" :
+ {
+     "r": "128",
+     "g": "128",
+     "b": "128"
+ },
+
+ "gridBordCol" :
+ {
+     "r": "0",
+     "g": "0",
+     "b": "0"
+ }
+
+ 
+}
+ 
+ 
+     
+
+
+ 
+     
+
+ 
+	 
+
+ 
+
+
+     
+      
+		 
+     
