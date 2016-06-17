@@ -63,13 +63,15 @@
      "r": 0,
      "g": 0,
      "b": 0
- }
+ },
 
+ "animSpeed" : 22,
+ "roboImages":
+ [ "robo1.jpg","robo1.jpg","robo1.jpg","robo1.jpg"],
+ "coinImage": "coin.jpg"
  
+
 }
- 
- 
-     
 
 
  
