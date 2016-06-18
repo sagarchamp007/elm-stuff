@@ -49,7 +49,7 @@
      "up","down","left","right"
  ],
 
- "gridCellSize" : 5,
+ "gridCellSize" : 50,
  "gridBorderSize" : 2,
  "gridCellCol" :
  {
