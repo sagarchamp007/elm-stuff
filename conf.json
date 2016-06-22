@@ -67,7 +67,7 @@
 
  "animSpeed" : 22,
  "roboImages":
- [ "wall-e0.jpg","ronie.jpg","brandon.jpg","megaMind.jpg"],
+ [ "wall-e0.png","ronie.jpg","brandon.jpg","megaMind.jpg"],
  "coinImage": "coin.jpg"
  
 
