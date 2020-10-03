@@ -53,9 +53,9 @@
  "gridBorderSize" : 2,
  "gridCellCol" :
  {
-     "r": 0,
-     "g": 0,
-     "b": 0
+     "r": 211,
+     "g": 211,
+     "b": 211
  },
 
  "gridBordCol" :
