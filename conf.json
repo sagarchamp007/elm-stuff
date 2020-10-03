@@ -53,16 +53,16 @@
  "gridBorderSize" : 2,
  "gridCellCol" :
  {
-     "r": 211,
-     "g": 211,
-     "b": 211
+     "r": 0,
+     "g": 0,
+     "b": 0
  },
 
  "gridBordCol" :
  {
-     "r": 0,
+     "r": 255,
      "g": 0,
-     "b": 255
+     "b": 0
  },
 
  "animSpeed" : 22,
