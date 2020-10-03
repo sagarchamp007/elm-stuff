@@ -67,7 +67,7 @@
 
  "animSpeed" : 22,
  "roboImages":
- [ "a.png","b.png","c.png","d.png"],
+ [ "images/a.png","images/b.png","images/c.png","images/d.png"],
  "coinImage": "coin.jpg"
  
 
